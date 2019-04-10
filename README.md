@@ -30,6 +30,6 @@ Problem 1
 ![c1](https://user-images.githubusercontent.com/49406379/55884253-630d1f00-5bc5-11e9-8dcd-d417f5f09b1b.JPG)
 
 Problem 2
-![c1](https://user-images.githubusercontent.com/49406379/55885920-6ce45180-5bc8-11e9-8532-e55fe226cd14.JPG)
+![c1](https://user-images.githubusercontent.com/49406379/55887578-5db2d300-5bcb-11e9-8504-3d5ac923da97.JPG)
 
 
