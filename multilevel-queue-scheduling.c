@@ -152,7 +152,7 @@ int allocate_p()
 
 int round_robin(int time,int flag)
 {
-	int time_q=2;
+	int time_q=4;
 	int counter=0;
 	int run_id=0;
 	static int finish_process=0;
